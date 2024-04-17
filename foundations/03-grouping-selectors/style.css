@@ -1,0 +1,17 @@
+.btn1
+{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.btn2{
+    background-color: yellow;
+}
+
+/* below we group the classes to apply the properties. */
+.btn1, 
+.btn2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
